@@ -1,0 +1,12 @@
+D:\IT-Electronics\Visual project\UserService\UserService\bin\UserService.dll.config
+D:\IT-Electronics\Visual project\UserService\UserService\bin\UserService.dll
+D:\IT-Electronics\Visual project\UserService\UserService\bin\UserService.pdb
+D:\IT-Electronics\Visual project\UserService\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+D:\IT-Electronics\Visual project\UserService\UserService\obj\Debug\UserService.dll
+D:\IT-Electronics\Visual project\UserService\UserService\obj\Debug\UserService.pdb
+D:\IT-Electronics\Repositories\UserService\bin\UserService.dll.config
+D:\IT-Electronics\Repositories\UserService\bin\UserService.dll
+D:\IT-Electronics\Repositories\UserService\bin\UserService.pdb
+D:\IT-Electronics\Repositories\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+D:\IT-Electronics\Repositories\UserService\obj\Debug\UserService.dll
+D:\IT-Electronics\Repositories\UserService\obj\Debug\UserService.pdb
